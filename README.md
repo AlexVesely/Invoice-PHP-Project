@@ -10,4 +10,4 @@ This is a PHP-based web application that displays invoice details based on an In
 - Go to http://localhost/invoice-app/gifft.php in your browser to use the app.
 
 <img src ="https://github.com/user-attachments/assets/182ed855-7984-4a01-be61-d9104503a5b1" width=49%>
-<img src ="https://github.com/user-attachments/assets/0d3b7b13-c1eb-400d-af60-ac163c6dc5fc" width=49%>
+<img src ="https://github.com/user-attachments/assets/0d3b7b13-c1eb-400d-af60-ac163c6dc5fc" width=50.5%>
