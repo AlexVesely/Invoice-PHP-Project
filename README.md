@@ -7,6 +7,7 @@ This is a PHP-based web application that displays invoice details based on an In
 - Clone this repository to a folder inside the 'htdocs' directory in XAMPP
 - Start Apache and MySQL in XAMPP Control
 - Import .sql files to your XAMPP database
+- Update dbconnect.php to connect to your MySQL username and password. Also update to connect to your database.
 - Go to http://localhost/invoice-app/gifft.php in your browser to use the app.
 
 <img src ="https://github.com/user-attachments/assets/182ed855-7984-4a01-be61-d9104503a5b1" width=100%>
